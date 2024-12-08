@@ -1,6 +1,6 @@
 # キーボード　プラクティコ
 名前は適当です  
-[monkeytype](https://monkeytype.com/) を参考にしたタイピングサイトです
+[monkeytype](https://monkeytype.com/) を参考にしたタイピングサイトです  
 wpmは[monkeytype](https://monkeytype.com/) で実際に使用されているやり方を用いてます
 
 ## バグ報告
